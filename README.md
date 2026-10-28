@@ -1,18 +1,21 @@
 # Modo De Viaje
 
-Sitio web desarrollado con WordPress y Elementor para agencia de viajes.
+Sitio web desarrollado con WordPress y Elementor para una agencia de viajes.
 
 ## Descripción
 
-Sitio web diseñado para presentar la oferta de viajes de la agencia mediante un diseño visualmente atractivo, una navegación intuitiva y una interfaz responsiva, adaptable a cualquier dispositivo.
+Sitio web con un diseño visualmente atractivo, navegación intuitiva e interfaz responsiva, adaptable a cualquier dispositivo. Presenta los servicios de la agencia, viajes en grupo, experiencias personalizadas y destinos internacionales mediante secciones visuales con información e itinerarios. Incluye opciones de contacto y soporte para varios idiomas.
 
-## Tecnologías utilizadas
+## Tecnologías y herramientas utilizadas
 
 - WordPress
 - Elementor
 - Astra
+- TranslatePress
 - WPCode
+- Widgets HTML personalizados
+- CSS adicional personalizado
 
 ## Sitio web
 
-[Visitar sitio web](https://mododeviaje.com/)
+[Visitar Modo de Viaje](https://mododeviaje.com/)
