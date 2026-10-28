@@ -18,4 +18,4 @@ Sitio web con un diseño visualmente atractivo, navegación intuitiva e interfaz
 
 ## Sitio web
 
-[Visitar Modo de Viaje](https://mododeviaje.com/)
+https://mododeviaje.com
