@@ -1,4 +1,4 @@
-# Modo-De-Viaje
+# Modo De Viaje
 
 Sitio web desarrollado con WordPress y Elementor para agencia de viajes.
 
@@ -15,4 +15,4 @@ Sitio web diseñado para presentar la oferta de viajes de la agencia mediante un
 
 ## Sitio web
 
-[Visitar sitio web](mododeviaje.com)
+[Visitar sitio web](https://mododeviaje.com/)
